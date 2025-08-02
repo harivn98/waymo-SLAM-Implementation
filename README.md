@@ -346,19 +346,6 @@ This project demonstrates advanced computer vision and robotics skills through p
 - **System Integration**: End-to-end pipeline from raw data to 3D maps
 - **Performance Optimization**: Efficient algorithms and data structures
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## 📞 Contact
-
-- **Email**: [your.email@domain.com]
-- **LinkedIn**: [linkedin.com/in/yourprofile]
-- **Portfolio**: [yourportfolio.com]
 
 ---
 
