@@ -280,37 +280,6 @@ KEYFRAME_THRESHOLD = 50
 TRIANGULATION_THRESHOLD = 80
 ```
 
-## 📚 Project Structure
-
-```
-waymo-slam/
-├── src/
-│   ├── data_pipeline_waymo.py    # Dataset management
-│   ├── slam_waymo.py             # Main SLAM implementation  
-│   ├── feature_extraction.py     # Feature detection/matching
-│   ├── pose_estimation.py        # Camera pose estimation
-│   ├── mapping.py                # 3D map construction
-│   └── visualization.py          # Results visualization
-├── analysis/
-│   ├── performance_metrics.py    # Performance evaluation
-│   ├── trajectory_analysis.py    # Trajectory quality assessment
-│   └── generate_report.py        # Automated reporting
-├── docs/
-│   ├── technical_details.md      # Implementation details
-│   ├── algorithm_overview.md     # Algorithm explanations
-│   └── images/                   # Result visualizations
-├── tests/
-│   ├── test_feature_extraction.py
-│   ├── test_pose_estimation.py
-│   └── test_mapping.py
-├── config/
-│   ├── camera_params.yaml        # Camera calibration
-│   └── slam_config.yaml          # Algorithm parameters
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
 ## 🔍 Future Enhancements
 
 ### Short-term Improvements
