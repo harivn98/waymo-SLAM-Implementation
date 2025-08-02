@@ -185,19 +185,6 @@ camera_matrix = np.array([
 - **Completeness**: Dense coverage of static environment features
 - **Robustness**: Handles dynamic objects and occlusions
 
-### Visualizations
-
-#### Feature Detection & Matching
-![Feature Detection](docs/images/feature_detection.png)
-*High-quality feature detection with spatial distribution*
-
-#### 3D Trajectory & Map
-![3D SLAM Results](docs/images/3d_slam_results.png)
-*Camera trajectory (blue) and 3D map points (red) in urban environment*
-
-#### Performance Analytics
-![Performance Metrics](docs/images/performance_analysis.png)
-*Real-time performance monitoring and quality metrics*
 
 ## 🔬 Technical Challenges Solved
 
