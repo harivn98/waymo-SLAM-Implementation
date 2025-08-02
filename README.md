@@ -304,7 +304,7 @@ TRIANGULATION_THRESHOLD = 80
 ### Technical Resources
 - [OpenCV SLAM Tutorial](https://docs.opencv.org/master/d9/dab/tutorial_homography.html)
 - [Multiple View Geometry in Computer Vision](http://www.robots.ox.ac.uk/~vgg/hzbook/)
-- [Waymo Open Dataset]([https://waymo.com/open/data/](https://waymo.com/open/download))
+- [Waymo Open Dataset]((https://waymo.com/open/download))
 
 ## 👨‍💻 About the Developer
 
